@@ -1,0 +1,29 @@
+.form-control {
+    width:300px;
+}
+
+form {
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+
+}
+
+button{
+    margin-top: 10px;
+}
+
+.title{
+    margin-top: 100px;
+    margin-left: 59px;
+    font-weight:bold;
+}
+
+a:-webkit-any-link{
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+
+}
